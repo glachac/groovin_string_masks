@@ -1,5 +1,5 @@
 name: groovin_string_masks
-description: A new Flutter package.
+description: A string formatter and validator based on masks. Forked from EmersonMoura's 'string_mask' package as it appears to be abandonded.
 version: 1.0.0
 author: GroovinChip <groovinchip@gmail.com>
 homepage: https://github.com/GroovinChip/groovin_string_masks

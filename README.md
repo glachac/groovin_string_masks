@@ -1,8 +1,8 @@
 # groovin_string_masks
 
-A new Flutter package.
+A string formatter and validator based on masks. Forked from EmersonMoura's 'string_mask' package as it appears to be abandonded.
 
-## Getting Started
+## Getting Started with Flutter
 
 For help getting started with Flutter, view our online [documentation](https://flutter.io/).
 
